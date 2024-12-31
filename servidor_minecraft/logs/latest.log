@@ -409,3 +409,8 @@
 [31Dec2024 20:02:34.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Set own game mode to Creative Mode]
 [31Dec2024 20:03:55.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Teleported Seta33 to 0.500000, 140.353356, 7.657441]
 [31Dec2024 20:04:09.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Set own game mode to Survival Mode]
+[31Dec2024 20:09:33.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 has made the advancement [Is this... blood?]
+[31Dec2024 20:09:33.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Created new objective [Tiempo]]
+[31Dec2024 20:09:44.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Set own game mode to Creative Mode]
+[31Dec2024 20:13:59.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Removed objective [Tiempo]]
+[31Dec2024 20:14:13.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Created new objective [Tiempo]]
