@@ -143,3 +143,32 @@
 [31Dec2024 20:55:02.367] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player f1bfce37-1b36-3ce5-a3ad-c194ea40cf21
 [31Dec2024 20:55:04.051] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player f1bfce37-1b36-3ce5-a3ad-c194ea40cf21
 [31Dec2024 20:55:04.052] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player GreyRP87 (f1bfce37-1b36-3ce5-a3ad-c194ea40cf21) successfully connected to voice chat
+[31Dec2024 20:55:11.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GreyRP87> y el gil del richard?
+[31Dec2024 20:55:24.788] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2, y=120, z=6} BlockPos{x=1, y=119, z=5}
+[31Dec2024 20:56:25.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GreyRP87 has made the advancement [Stone Age]
+[31Dec2024 20:56:56.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GreyRP87 has made the advancement [Getting an Upgrade]
+[31Dec2024 20:59:04.532] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GreyRP87 lost connection: Timed out
+[31Dec2024 20:59:04.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GreyRP87 left the game
+[31Dec2024 20:59:04.541] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client GreyRP87
+[31Dec2024 20:59:04.633] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[31Dec2024 20:59:23.179] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: GreyRP87[/127.144.176.107:36263] logged in with entity id 2297 at (-128.64139281645097, 94.00133597911214, 15.335049670248079)
+[31Dec2024 20:59:23.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GreyRP87 joined the game
+[31Dec2024 20:59:23.643] [Server thread/INFO] [Jade/]: Syncing config to GreyRP87 (f1bfce37-1b36-3ce5-a3ad-c194ea40cf21)
+[31Dec2024 20:59:23.668] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of GreyRP87 (18)
+[31Dec2024 20:59:23.669] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to GreyRP87
+[31Dec2024 20:59:45.399] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player f1bfce37-1b36-3ce5-a3ad-c194ea40cf21
+[31Dec2024 20:59:46.684] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player f1bfce37-1b36-3ce5-a3ad-c194ea40cf21
+[31Dec2024 20:59:46.685] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player GreyRP87 (f1bfce37-1b36-3ce5-a3ad-c194ea40cf21) successfully connected to voice chat
+[31Dec2024 20:59:57.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GreyRP87 was slain by Iron Golem
+[31Dec2024 20:59:57.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GreyRP87 has made the advancement [Your First Grave]
+[31Dec2024 20:59:58.034] [Server thread/INFO] [tombstone/]: The player GreyRP87 has successfully been saved
+[31Dec2024 21:00:00.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GreyRP87 has made the advancement [The Most Useful Key]
+[31Dec2024 21:00:31.967] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GreyRP87 moved too quickly! -8.064539302464278,-4.325215992563216,4.723591286267881
+[31Dec2024 21:00:54.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GreyRP87 has reached the goal [Here They Come]
+[31Dec2024 21:02:38.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GreyRP87 has made the advancement [Acquire Hardware]
+[31Dec2024 21:02:43.412] [Worker-Main-15/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
+[31Dec2024 21:03:42.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Set own game mode to Survival Mode]
+[31Dec2024 21:04:24.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Set own game mode to Creative Mode]
+[31Dec2024 21:04:36.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GreyRP87 has made the advancement [Monster Hunter]
+[31Dec2024 21:05:00.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Set own game mode to Survival Mode]
+[31Dec2024 21:05:07.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GreyRP87 has made the advancement [Isn't It Iron Pick]
