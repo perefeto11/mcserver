@@ -414,3 +414,6 @@
 [31Dec2024 20:09:44.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Set own game mode to Creative Mode]
 [31Dec2024 20:13:59.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Removed objective [Tiempo]]
 [31Dec2024 20:14:13.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Created new objective [Tiempo]]
+[31Dec2024 20:17:51.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Added 1 to [Tiempo] for Seta33 (now 1)]
+[31Dec2024 20:22:31.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Replaced a slot on Seta33 with [Air]]
+[31Dec2024 20:24:09.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Replaced a slot on Seta33 with [Air]]
