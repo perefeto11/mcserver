@@ -190,3 +190,17 @@
 [05Jan2025 23:10:23.323] [Server thread/INFO] [Jade/]: Syncing config to GreyRP87 (f1bfce37-1b36-3ce5-a3ad-c194ea40cf21)
 [05Jan2025 23:10:23.439] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of GreyRP87 (18)
 [05Jan2025 23:10:23.441] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to GreyRP87
+[05Jan2025 23:10:53.248] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GreyRP87 lost connection: Timed out
+[05Jan2025 23:10:53.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GreyRP87 left the game
+[05Jan2025 23:10:53.249] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client GreyRP87
+[05Jan2025 23:14:56.806] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Seta33[/127.53.120.177:55175] logged in with entity id 922 at (-3.5, 114.0, -7.5)
+[05Jan2025 23:14:56.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 joined the game
+[05Jan2025 23:14:56.926] [Server thread/INFO] [Jade/]: Syncing config to Seta33 (14639684-7cba-383d-9504-86ac9ad2ef9e)
+[05Jan2025 23:15:01.761] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Seta33 (18)
+[05Jan2025 23:15:01.763] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Seta33
+[05Jan2025 23:15:20.412] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 14639684-7cba-383d-9504-86ac9ad2ef9e
+[05Jan2025 23:15:21.668] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 14639684-7cba-383d-9504-86ac9ad2ef9e
+[05Jan2025 23:15:21.671] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Seta33 (14639684-7cba-383d-9504-86ac9ad2ef9e) successfully connected to voice chat
+[05Jan2025 23:19:41.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 was slain by Zombie
+[05Jan2025 23:19:41.851] [Server thread/INFO] [tombstone/]: The player Seta33 has successfully been saved
+[05Jan2025 23:19:55.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: The difficulty has been set to Peaceful]
